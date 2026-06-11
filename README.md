@@ -1,6 +1,6 @@
 # aseprite
-Build Aseprite for Windows and Linux using GitHub Actions
-MacOS version built manually
+- Build Aseprite for Windows and Linux using GitHub Actions
+- MacOS version built manually
 
 # What should you do?
 - Go to releases and Download the version for your operating system
